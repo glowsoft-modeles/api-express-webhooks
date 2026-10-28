@@ -1,0 +1,10 @@
+{
+  "name": "api-express-webhooks",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node serveur.js"
+  },
+  "dependencies": {},
+  "type": "module"
+}

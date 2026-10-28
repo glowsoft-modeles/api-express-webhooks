@@ -1,0 +1,7 @@
+{
+  "id": "api-express-webhooks",
+  "nom": "Récepteur de webhooks Express",
+  "cadriciel": "node",
+  "categorie": "integration",
+  "variables": ["WEBHOOK_SECRET"]
+}
